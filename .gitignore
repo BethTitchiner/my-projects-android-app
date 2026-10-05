@@ -1,0 +1,8 @@
+*.apk
+*.idsig
+*.zip
+*.p12
+*.jks
+*.keystore
+*password*
+.env*
