@@ -1,6 +1,6 @@
 # My Projects
 
-A simple Android workload organiser with projects, flowchart steps, nested checklists and today's priorities.
+A simple vibe-coded Android workload organiser with projects, flowchart steps, nested checklists and today's priorities.
 
 ## Download and install
 
